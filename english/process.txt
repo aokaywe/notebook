@@ -1,2 +1,0 @@
-words.txt l2 u3 p1
-words1.txt l3 u3 p1
